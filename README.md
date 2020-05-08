@@ -16,12 +16,6 @@ Please cite [p2p](https://ieeexplore.ieee.org/abstract/document/8594339) if you 
 
 Please also cite [via](https://ieeexplore.ieee.org/abstract/document/8772208) if you use the quaternion-based smooth trajectory Generator in your publications:
 ```
-@inproceedings{corl2018roboturk,
-  title={RoboTurk: A Crowdsourcing Platform for Robotic Skill Learning through Imitation},
-  author={Mandlekar, Ajay and Zhu, Yuke and Garg, Animesh and Booher, Jonathan and Spero, Max and Tung, Albert and Gao, Julian and Emmons, John and Gupta, Anchit and Orbay, Emre and Savarese, Silvio and Fei-Fei, Li},
-  booktitle={Conference on Robot Learning},
-  year={2018}
-}
 @article{GrassmannBurgner-Kahrs_RA-L_2019,
   author={R. M. {Grassmann} and J. {Burgner-Kahrs}},
   journal={IEEE Robotics and Automation Letters}, 
