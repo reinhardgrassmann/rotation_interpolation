@@ -1,8 +1,8 @@
 # Rotation interpolation and trajectory generation
 
 ## Citations
-Please cite [p2p](https://ieeexplore.ieee.org/abstract/document/8594339) if you use the smooth point-to-point trajectory generator in your publications:
-```
+Please cite [p2p trajectory generator](https://ieeexplore.ieee.org/abstract/document/8594339) if you use the smooth point-to-point trajectory generator in your publications:
+```bibtex
 @inproceedings{GrassmannJohannsmeierHaddadin_IROS_2018,
   author={R. {Grassmann} and L. {Johannsmeier} and S. {Haddadin}},
   booktitle={2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
@@ -14,8 +14,8 @@ Please cite [p2p](https://ieeexplore.ieee.org/abstract/document/8594339) if you 
 }
 ```
 
-Please also cite [via](https://ieeexplore.ieee.org/abstract/document/8772208) if you use the quaternion-based smooth trajectory Generator in your publications:
-```
+Please also cite [via trajectory generator](https://ieeexplore.ieee.org/abstract/document/8772208) if you use the quaternion-based smooth trajectory Generator in your publications:
+```bibtex
 @article{GrassmannBurgner-Kahrs_RA-L_2019,
   author={R. M. {Grassmann} and J. {Burgner-Kahrs}},
   journal={IEEE Robotics and Automation Letters}, 
